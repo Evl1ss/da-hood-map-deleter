@@ -3,6 +3,6 @@ local plr = game.Players.LocalPlayer
 local hum = plr.Character.HumanoidRootPart
 hum.CFrame = CFrame.new(-396.111237, 21.7499962, -286.659668, -0.0176864024, 6.23073362e-08, -0.999843597, 1.45358134e-08, 1, 6.20599536e-08, 0.999843597, -1.34359226e-08, -0.0176864024)
 floor1.Anchored = true
-floor1.Position = Vector3.new(-478.375, 10.25, -252.875)
+floor1.Position = Vector3.new(-478.375, 10.28, -252.875)
 floor1.Size = Vector3.new(2000,17,2000)
 game.Workspace.MAP:destroy()
